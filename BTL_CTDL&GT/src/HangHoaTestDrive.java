@@ -1,4 +1,4 @@
-package ThiCuoiKy;
+
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -8,7 +8,6 @@ public class HangHoaTestDrive {
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
-        String nN1 = "20/12/2021";
         Date ngayNhap = new Date();
         SimpleDateFormat df = new SimpleDateFormat("dd/MM/yyyy");
         ListHangHoa listHangHoa = new ListHangHoa();

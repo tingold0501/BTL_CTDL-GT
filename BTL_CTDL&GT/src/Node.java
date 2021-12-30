@@ -1,5 +1,3 @@
-package ThiCuoiKy;
-
 public class Node {
     public HangHoa hangHoa;
     public Node next;
@@ -30,3 +28,4 @@ public class Node {
     }
   
 }
+
